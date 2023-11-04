@@ -3,6 +3,8 @@
 # |=| .\data\files\<XML files> folder and the list of orders that we   |=|
 # |=| are looking for inside of .\data\list.txt file.                  |=|
 # |======================================================================|
+# |==| Program created by: Alvaro Gabriel Gonzalez Martinez           |==|
+# |======================================================================|
 
 # |==| Importing modules |==|
 import os
